@@ -1,0 +1,13 @@
+{
+  "@@locale": "id",
+  "appTitle": "Homify AI",
+  "onboardingWelcomeTitle": "Selamat datang di Homify AI",
+  "onboardingWelcomeSubtitle": "Rumah Anda, didukung oleh kecerdasan.",
+  "onboardingInteriorTitle": "Desain Interior",
+  "onboardingInteriorSubtitle": "Ubah ruang Anda seketika",
+  "onboardingLandscapeTitle": "Desain Lanskap",
+  "onboardingLandscapeSubtitle": "Segarkan taman Anda dengan AI",
+  "ctaGetStarted": "Mulai",
+  "ctaContinue": "Lanjut",
+  "onboardingCompleted": "Onboarding selesai"
+}

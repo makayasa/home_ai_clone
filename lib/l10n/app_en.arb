@@ -1,0 +1,13 @@
+{
+  "@@locale": "en",
+  "appTitle": "Homify AI",
+  "onboardingWelcomeTitle": "Welcome to Homify AI",
+  "onboardingWelcomeSubtitle": "Your Home, Powered by Intelligence.",
+  "onboardingInteriorTitle": "Interior Design",
+  "onboardingInteriorSubtitle": "Redesign your space instantly",
+  "onboardingLandscapeTitle": "Landscape Design",
+  "onboardingLandscapeSubtitle": "Refresh your garden with AI",
+  "ctaGetStarted": "Get Started",
+  "ctaContinue": "Continue",
+  "onboardingCompleted": "Onboarding completed"
+}
